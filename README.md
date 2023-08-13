@@ -1,3 +1,10 @@
+<div align="center">
+  
+[![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhudXFiMmlhd3pkZHVhd3FnbGlhbWRrcTQxZHU5c2hhMHF0eWpmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9iv4ErObYQvrW/source.gif)](https://github.com/Lileshwar26)
+
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Lileshwar Amatah</h1>
 <h3 align="center">👀 I'm deeply passionate about technology, constantly exploring new advancements in devices. <br><br>🤩I also have a strong affinity for automobiles. <br><br> 🌱  Currently, I'm pursuing a bachelor's degree in Business Information Technology and Systems at Curtin University. </h3>
 
