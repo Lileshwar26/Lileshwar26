@@ -7,11 +7,11 @@
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lileshwar26?tab=repositories](https://github.com/Lileshwar26?tab=repositories)
 
-- 📫 How to reach me **lileshwar.amatah@student.curtin.edu.au** <br><br>
+- 📫 How to reach me **lileshwar.amatah@student.curtin.edu.au** <br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">Connect with me</h2> <br>
 <p align="center">
