@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lileshwar Amatah</h1>
-<h3 align="center">👀 I'm deeply passionate about technology and new advancements in devices. - 🌱 Student at Curtin University. - 📍 From Mauritius 🌴🔴🔵🟡🟢</h3>
+<h3 align="center">👀 I'm deeply passionate about technology, constantly exploring new advancements in devices. <br>🤩I also have a strong affinity for automotives. <br> 🌱  Currently, I'm pursuing a bachelor's degree in Business Information Technology and Systems at Curtin University. </h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lileshwar26&label=Profile%20views&color=0e75b6&style=flat" alt="lileshwar26" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lileshwar26" alt="lileshwar26" /></a> </p>
 
-- 🌱 I’m currently learning **Business Information Technology and Systems**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lileshwar26?tab=repositories](https://github.com/Lileshwar26?tab=repositories)
 
