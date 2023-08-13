@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lileshwar Amatah</h1>
-<h3 align="center">👀 I'm deeply passionate about technology, constantly exploring new advancements in devices. <br>🤩I also have a strong affinity for automotives. <br> 🌱  Currently, I'm pursuing a bachelor's degree in Business Information Technology and Systems at Curtin University. </h3>
+<h3 align="center">👀 I'm deeply passionate about technology, constantly exploring new advancements in devices. <br><br>🤩I also have a strong affinity for automotives. <br><br> 🌱  Currently, I'm pursuing a bachelor's degree in Business Information Technology and Systems at Curtin University. </h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
